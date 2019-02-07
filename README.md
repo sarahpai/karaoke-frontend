@@ -1,4 +1,4 @@
-# Karaoking App
+# Karaoke App
 
 Youtube KTV Palace is an unlimited, free, and fun karaoking app right from your screen!   
 
@@ -17,7 +17,7 @@ Youtube KTV Palace is an unlimited, free, and fun karaoking app right from your 
 ---
 
 ## Resources
-	*Javascript
+	* Javascript
 	* Rails API
 	* Youtube Search API
 
