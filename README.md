@@ -1,4 +1,4 @@
-# Photo booth App
+# Karaoking App
 
 Youtube KTV Palace is an unlimited, free, and fun karaoking app right from your screen!   
 
